@@ -1,0 +1,19 @@
+{
+  "apps": [
+    {
+      "serverURL": "https://dagensvimmerby.herokuapp.com/parse",
+      "appId": "",
+      "masterKey": "",
+      "appName": "Dagens Vimmerby",
+      "iconName": "dagensvimmerby.png",
+      "production": true
+    }
+  ],
+  "users": [
+    {
+      "user":"admin",
+      "pass":""
+    }
+  ],
+  "iconsFolder": "icons"
+}
