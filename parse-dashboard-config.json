@@ -7,11 +7,27 @@
       "appName": "Dagens Vimmerby",
       "iconName": "dagensvimmerby.png",
       "production": true
+    },
+    {
+      "serverURL": "https://dagenshultsfred.herokuapp.com/parse",
+      "appId": "",
+      "masterKey": "",
+      "appName": "Dagens Hultsfred",
+      "iconName": "dagenshultsfred.png",
+      "production": true
+    },
+    {
+      "serverURL": "https://dagensvastervik.herokuapp.com/parse",
+      "appId": "", 
+      "masterKey": "",
+      "appName": "Dagens Västervik",
+      "iconName": "dagensvastervik.png",
+      "production": true
     }
   ],
   "users": [
     {
-      "user":"admin",
+      "user":"",
       "pass":""
     }
   ],
