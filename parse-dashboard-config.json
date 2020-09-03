@@ -23,6 +23,14 @@
       "appName": "Dagens Västervik",
       "iconName": "dagensvastervik.png",
       "production": true
+    },
+    {
+      "serverURL": "https://dagenskalmar.herokuapp.com/parse",
+      "appId": "", 
+      "masterKey": "",
+      "appName": "Dagens Kalmar",
+      "iconName": "dagensvastervik.png",
+      "production": true
     }
   ],
   "users": [
