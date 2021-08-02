@@ -9,6 +9,6 @@
   "author": "Tuva Sweden AB",
   "license": "ISC",
   "dependencies": {
-    "parse-dashboard": "^1.0.17"
+    "parse-dashboard": "github:dagensvimmerbymaster/parse-dashboard-src#dv-1.0"
   }
 }
