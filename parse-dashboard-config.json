@@ -2,32 +2,32 @@
   "apps": [
     {
       "serverURL": "https://dagensvimmerby.herokuapp.com/parse",
-      "appId": "",
-      "masterKey": "",
+      "appId": "id-FAoIJ78ValGFwYdBWfxch7Fm",
+      "masterKey": "key-8uNA4ZslCgVoqFeuy5epBntj",
       "appName": "Dagens Vimmerby",
       "iconName": "dagensvimmerby.png",
       "production": true
     },
     {
       "serverURL": "https://dagenshultsfred.herokuapp.com/parse",
-      "appId": "",
-      "masterKey": "",
+      "appId": "id-WnzXBUpwYUmCxROLZuecizXW",
+      "masterKey": "key-XBVDvIyXADnVVFAIttettqke",
       "appName": "Dagens Hultsfred",
       "iconName": "dagenshultsfred.png",
       "production": true
     },
     {
       "serverURL": "https://dagensvastervik.herokuapp.com/parse",
-      "appId": "",
-      "masterKey": "",
+      "appId": "id-CzLMyBtZjLkgweFGlBZTnKng",
+      "masterKey": "key-NvxBTACrjmIOinncqXnUKzqw",
       "appName": "Dagens Västervik",
       "iconName": "dagensvastervik.png",
       "production": true
     },
     {
       "serverURL": "https://dagenskalmar.herokuapp.com/parse",
-      "appId": "", 
-      "masterKey": "",
+      "appId": "id-UuxKQNAFtSPRDypVJwEeMuNE",
+      "masterKey": "key-eBNOURUysVprKvqypmzBqweC",
       "appName": "Dagens Kalmar",
       "iconName": "dagenskalmar.png",
       "production": true
@@ -35,8 +35,8 @@
   ],
   "users": [
     {
-      "user":"",
-      "pass":""
+      "user":"admin",
+      "pass":"AppDV2016"
     }
   ],
   "iconsFolder": "icons"
